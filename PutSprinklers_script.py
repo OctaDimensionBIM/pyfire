@@ -66,3 +66,4 @@ for space in spaces:
 
 # Commit the transaction
 t.Commit()
+#hence Completed
